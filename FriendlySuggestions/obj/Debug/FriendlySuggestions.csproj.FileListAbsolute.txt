@@ -1,0 +1,7 @@
+C:\Users\Me\source\repos\FriendlySuggestions\FriendlySuggestions\bin\Debug\FriendlySuggestions.exe.config
+C:\Users\Me\source\repos\FriendlySuggestions\FriendlySuggestions\bin\Debug\FriendlySuggestions.exe
+C:\Users\Me\source\repos\FriendlySuggestions\FriendlySuggestions\bin\Debug\FriendlySuggestions.pdb
+C:\Users\Me\source\repos\FriendlySuggestions\FriendlySuggestions\obj\Debug\FriendlySuggestions.csprojAssemblyReference.cache
+C:\Users\Me\source\repos\FriendlySuggestions\FriendlySuggestions\obj\Debug\FriendlySuggestions.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\FriendlySuggestions\FriendlySuggestions\obj\Debug\FriendlySuggestions.exe
+C:\Users\Me\source\repos\FriendlySuggestions\FriendlySuggestions\obj\Debug\FriendlySuggestions.pdb
